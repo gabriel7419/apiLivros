@@ -12,7 +12,7 @@ Esta é uma API RESTful para gerenciar autores e livros/revistas, desenvolvida e
 1.  **Navegue até o diretório do projeto:**
 
     ```bash
-    cd D:\TrabalhoC#\Livraria.Api
+    cd caminho/para/api/apiLivros
     ```
 
 2.  **Inicie a API:**
